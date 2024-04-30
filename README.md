@@ -1,1 +1,2 @@
-# FS_HW
+# Homework
+## This work shows different types of selectors and their weight values.
