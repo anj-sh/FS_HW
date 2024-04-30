@@ -1,0 +1,50 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    background-color: aquamarine;
+}
+
+.second-selector {
+    color: red;
+}
+
+#selector-id {
+    font-weight: normal;
+    background-color: brown;
+}
+
+a[href*="com"] {
+    color: green;
+}
+
+ul li {
+    background-color: pink;
+}
+
+div > p {
+    color: blueviolet;
+}
+
+div .border {
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+h2 + span {
+    background-color: crimson;
+    color: #ffff;
+}
+
+button:hover {
+    background-color: yellowgreen;
+}
+
+#nine .ten {
+    color: darkgreen;
+}
+
+
