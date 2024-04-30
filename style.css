@@ -16,8 +16,8 @@ h1 {
     background-color: brown;
 }
 
-a[href*="com"] {
-    color: green;
+a[href*="html"] {
+    background-color: green;
 }
 
 ul li {
